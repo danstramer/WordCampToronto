@@ -1,6 +1,5 @@
-/* Custom CSS from 2018.bilbao.wordcamp.org */
-/* CSS personalizado de 2018.bilbao.wordcamp.org */
-/** * * * WC Bilbao 2018 * * **/
+/* Custom CSS from 2018.toronto.wordcamp.org */
+/** * * * WC Toronto 2018 * * **/
 /*------------------------------ >>> TABLE OF CONTENTS: --------------------------------------------------------- 1.0 Reset 2.0 Structure 3.0 Header 4.0 Navigation 5.0 Hero Area 6.0 Blog & Pages 7.0 Comment Form & Comments 8.0 Sidebar 9.0 Footer 10.0 Page Styles 11.0 Forms 12.0 Responsive Design */
 /*-------------------------------------------------------------- 1.0 Reset --------------------------------------------------------------*/
 
@@ -10,11 +9,6 @@ Purple: #511c59
 Light blue: #3fc7f2
 
 */
-
-
-
-
-
 
 .page-id-1010 #primary, .page-id-941 #primary {
 	width: 100%;
@@ -1364,3 +1358,8 @@ footer.site-footer .site-info:before {
 	background: #999;
 	padding: 10px 15px;
 }
+
+
+/*Organizers Page*/
+.wcorg-organizer {margin: 10px 0; padding: 30px 0; border-bottom: 1px solid #c7b6ce;}
+.wcorg-organizer-description img.avatar {float: left;; margin: 0 10px 10px 0;}
